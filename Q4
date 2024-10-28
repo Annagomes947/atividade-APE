@@ -1,0 +1,3 @@
+segundos= int(input("digite a quantidade de segundos?  "))
+aula_necessaria= segundos / 3000
+print(aulas_necessarias)
