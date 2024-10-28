@@ -1,0 +1,5 @@
+alunos_aprovados =int(input("Digite a quantidade de alunos aprovados? "))
+alunos_reprovados =int(input("Digite a quantidade de alunos reprovados? "))
+total = alunos_aprovados + alunos_reprovados
+resultado = (alunos_aprovados / total) * 100
+print(resultado)
