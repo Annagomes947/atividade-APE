@@ -1,0 +1,5 @@
+n1 = int(input("primeiro nota do aluno"))
+n2 = int(input("segunda nota do aluno"))
+n3 = int(input("terceira nota do aluno"))
+media = (n1 + n2 + n3) / 3
+print(media)
