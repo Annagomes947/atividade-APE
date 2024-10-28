@@ -1,0 +1,5 @@
+quantidade_aulas = int(input("Digite aulas totais? "))
+quantidade_faltas = int(input("Digite as faltas? "))
+frequencia = quantidade_aulas - quantidade_faltas
+resultado = frequencia / quantidade_aulas * 100
+print (resultado)
